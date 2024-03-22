@@ -1,0 +1,62 @@
+Running algorithms for Example 1 puzzle:
+The given state is: [[8, 1, 3], [4, 0, 2], [7, 6, 5]]
+Solvable, please wait. 
+
+BFS Solution is  ['Right', 'Down', 'Left', 'Left', 'Up', 'Up', 'Right', 'Down', 'Left', 'Down', 'Right', 'Up', 'Right', 'Down']
+Number of explored nodes is  3277
+Number of steps: 14
+Time to completion:  0.13784146308898926
+DLS Solution is  ['Right', 'Down', 'Left', 'Left', 'Up', 'Up', 'Right', 'Down', 'Left', 'Down', 'Right', 'Up', 'Right', 'Down']
+Number of explored nodes is  3277
+Number of steps: 14
+Time to completion:  0.136735200881958
+A* Solution is  ['Left', 'Up', 'Right', 'Down', 'Left', 'Up', 'Right', 'Right', 'Down', 'Down', 'Left', 'Up', 'Left', 'Up', 'Right', 'Right', 'Down', 'Left', 'Up', 'Left', 'Down', 'Right', 'Right', 'Up', 'Left', 'Down', 'Left', 'Up', 'Right', 'Down', 'Right', 'Down']
+Number of explored nodes is  1617
+Number of steps: 32
+Time to completion:  0.044571638107299805
+
+
+Running algorithms for Example 2 puzzle:
+The given state is: [[0, 1, 3], [7, 2, 5], [8, 4, 6]]
+Solvable, please wait.
+
+BFS Solution is  ['Right', 'Down', 'Down', 'Left', 'Up', 'Right', 'Right', 'Down']
+Number of explored nodes is  117
+Number of steps: 8
+Time to completion:  0.0
+DLS Solution is  ['Right', 'Down', 'Down', 'Left', 'Up', 'Right', 'Right', 'Down']
+Number of explored nodes is  117
+Number of steps: 8
+Time to completion:  0.0005044937133789062
+A* Solution is  ['Right', 'Down', 'Down', 'Left', 'Up', 'Right', 'Right', 'Down']
+Number of explored nodes is  19
+Number of steps: 8
+Time to completion:  0.0
+
+
+Running algorithms for Example 3 puzzle:
+The given state is: [[1, 2, 3, 4], [5, 6, 0, 8], [9, 10, 7, 11], [13, 14, 15, 12]]
+Solvable, please wait.
+
+BFS Solution is  ['Down', 'Right', 'Down']
+Number of explored nodes is  14
+Number of steps: 3
+Time to completion:  0.0
+DLS Solution is  ['Down', 'Right', 'Down']
+Number of explored nodes is  14
+Number of steps: 3
+Time to completion:  0.0
+A* Solution is  ['Down', 'Right', 'Down']
+Number of explored nodes is  32
+Number of steps: 3
+Time to completion:  0.0
+
+
+Running algorithms for Example 4 puzzle:
+The given state is: [[1, 2, 3], [4, 5, 6], [8, 7, 0]]
+Not solvable
+
+
+Running algorithms for Example 5 puzzle:
+The given state is: [[1, 2, 3, 4], [5, 6, 7, 8], [9, 10, 11, 12], [13, 15, 14, 0]]
+Not solvable
